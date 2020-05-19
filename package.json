@@ -1,13 +1,14 @@
 {
-    "name": "vy102-XXX-express",
-    "version": "0.0.1",
-    "description": "A sample express app",
-    "scripts": {
-        "start": "node app.js"
-    },
-    "dependencies": {
-        "express": "4.*",
-        "body-parser": "*",
-        "watson-developer-cloud": "*"
-    }
+	"name": "vy102-XXX-express",
+	"version": "0.0.1",
+	"description": "A sample express app",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "4.*",
+		"body-parser": "*",
+		"watson-developer-cloud": "*",
+		"watson-developer-cloud/natural-language-understanding/v1.js": "latest"
+	}
 }
