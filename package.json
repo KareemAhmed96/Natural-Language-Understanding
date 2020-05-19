@@ -8,7 +8,6 @@
 	"dependencies": {
 		"express": "4.*",
 		"body-parser": "*",
-		"watson-developer-cloud": "*",
-		"watson-developer-cloud/natural-language-understanding/v1.js": "latest"
+		"watson-developer-cloud": "*"
 	}
 }
