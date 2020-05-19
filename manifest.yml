@@ -1,6 +1,6 @@
 applications:
-	- path: .
-	memory: 512M
-	instances: 1
-	name: vy102-360-express
-	disk_quota: 1024M
+- path: .
+  memory: 512M
+  instances: 1
+  name: vy102-360-express
+  disk_quota: 1024M
